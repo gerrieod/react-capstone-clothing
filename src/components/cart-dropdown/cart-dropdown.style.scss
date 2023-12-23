@@ -1,3 +1,4 @@
+// cart-icon.styles.scss 
 .cart-icon-container {
     width: 45px;
     height: 45px;
@@ -20,9 +21,10 @@
     }
 }
 
+// cart-dropdown.styles.scss 
 .cart-dropdown-container {
     position: absolute;
-    width: 240px;
+    width: 320px;
     height: 340px;
     display: flex;
     flex-direction: column;
